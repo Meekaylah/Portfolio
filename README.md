@@ -1,8 +1,5 @@
-# Responsive Portfolio Website Rian
-
-## [Watch it on youtube](https://youtu.be/-uQIBlaZ4P0)
-
-### Responsive Portfolio Website Rian
+# Welcome to My Portfolio!
+### Michaela's Responsive Portfolio Website
 
 - Responsive Personal Portfolio Website Using HTML CSS & JavaScript
 - Contains animations when scrolling.
