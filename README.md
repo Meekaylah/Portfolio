@@ -1,6 +1,8 @@
 # Welcome to My Portfolio!
 ### Michaela's Responsive Portfolio Website
 
+Click here to view: https://portfolio-meekaylah.vercel.app/
+
 - Responsive Personal Portfolio Website Using HTML CSS & JavaScript
 - Contains animations when scrolling.
 - Smooth scrolling in each section.
