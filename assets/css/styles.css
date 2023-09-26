@@ -800,9 +800,9 @@ img {
 
   .home__container{
     grid-template-columns: repeat(2, 460px);
-    gap: 2rem 4rem;
+    gap: 2rem 8rem;
     align-items: center;
-    padding-block: 5.5rem;
+    padding-block: 1.5rem;
   }
 
   .home__perfil{
@@ -899,4 +899,6 @@ img {
     font-size: 1.5rem;
     padding: .5rem;
   }
+
+
 }
