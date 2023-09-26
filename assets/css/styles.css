@@ -207,7 +207,7 @@ img {
 }
 
 .nav__logo-circle{
-  content: url("/responsive-portfolio-website-rian-main/assets/img/favicon.png");
+  content: url("/assets/img/favicon.png");
   width: 32px;
   height: 32px;
 }
